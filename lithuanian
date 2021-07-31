@@ -36,9 +36,9 @@
     },
     "footer": {
         "categories": {
-            "info": "Информация",
-            "politics": "Политика",
-            "links": "Ссылки"
+            "info": "Informacija",
+            "politics": "Politika",
+            "links": "Nuorodai"
         },
         "links": {
             "developers": "Kūrėjai",
