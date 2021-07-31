@@ -1,0 +1,26 @@
+{
+    "header": {
+        "links": {
+            "main": "Main",
+            "bots": "Bots",
+            "addBot": "Add bot",
+            "community": "Community",
+            "login": "Login"
+        }
+    },
+    "footer": {
+        "categories": {
+            "info": "Информация",
+            "politics": "",
+            "links": ""
+        },
+        "links": {
+            "developers": "",
+            "documentation-api": "",
+            "donate": "",
+            "rules": "",
+            "topinfo": "",
+            "support-server": ""
+        }
+    }
+}
