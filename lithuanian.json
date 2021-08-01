@@ -70,7 +70,7 @@
         "developers_hint": "СVartotojo ID sąrašas. Kablėlis - separatorius",
         "supportServerURL": "Pagalbos serveris",
         "supportServerURL_hint": "Nuoroda į botu serverį, kur vartotojai gali gauti atsiliepimus, siųsti klaidą ir pan.",
-        "githubURL": "Исходный код",
+        "githubURL": "Botu kodas",
         "githubURL_hint": "Nuoroda į GitHub saugyklą",
         "websiteURL": "Botu svėtaine",
         "websiteURL_hint": "Botu svėtaine nuoroda",
