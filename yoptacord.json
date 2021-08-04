@@ -5,12 +5,12 @@
     "newBots": "Новые зеки",
     "topBots": "Авторитеты района блэт",
     "titles": {
-        "home": "Главная",
-        "bots": "Боты",
-        "add": "Добавить",
-        "edit": "Редактировать",
-        "settings": "Настройки",
-        "partners": "Партнеры"
+        "home": "Общак",
+        "bots": "Лохи",
+        "add": "Посадить",
+        "edit": "Отредачить",
+        "settings": "Сеттунги",
+        "partners": "Авторитеты ШИЗО"
     },
     "header": {
         "links": {
@@ -37,11 +37,11 @@
     "footer": {
         "categories": {
             "info": "Инфа",
-            "politics": "Политика",
+            "politics": "Плитка",
             "links": "Хвосты"
         },
         "links": {
-            "developers": "Разработчики",
+            "developers": "Разрабы нах",
             "documentation": "Ксива API",
             "donate": "Ларь нах",
             "rules": "Воровской закон",
