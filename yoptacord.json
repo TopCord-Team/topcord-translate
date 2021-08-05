@@ -1,0 +1,111 @@
+{
+    "title": "Малява ботов в СИЗО.",
+    "subtitle": "Сажайте лохов, поднимайте авторитет. Выбирайте петухов. И все это на YoptaCord.",
+    "tagList": "Список татух нах",
+    "newBots": "Новые зеки",
+    "topBots": "Авторитеты района блэт",
+    "titles": {
+        "home": "Общак",
+        "bots": "Лохи",
+        "add": "Посадить",
+        "edit": "Отредачить",
+        "settings": "Сеттунги",
+        "partners": "Авторитеты ШИЗО"
+    },
+    "header": {
+        "links": {
+            "main": "Общак",
+            "bots": "Лохи",
+            "addBot": "Посадить Лоха",
+            "community": "Зона",
+            "partners": "Партнеры",
+            "login": "Зашквариться"
+        }
+    },
+    "inputs": {
+        "searchBot": "Вычислить лоха по номеру"
+    },
+    "filters": {
+        "sortBy": "Наезд по",
+        "reset": "Западло",
+        "library": "По библе",
+        "updatedAt": "По обновам",
+        "votes": "По авторитету",
+        "guilds": "По срокам",
+        "comments": "По заявам"
+    },
+    "footer": {
+        "categories": {
+            "info": "Инфа",
+            "politics": "Плитка",
+            "links": "Хвосты"
+        },
+        "links": {
+            "developers": "Разрабы нах",
+            "documentation": "Ксива API",
+            "donate": "Ларь нах",
+            "rules": "Воровской закон",
+            "topinfo": "ВычислитьЛохаПоИД",
+            "support": "ГУЛАГ"
+        }
+    },
+    "add": {
+        "addTitle": "Заява на лоха",
+        "editTitle": "Редачим по бырому",
+        "id": "ИДЛоха",
+        "id_hint": "Ищи в жопе мира",
+        "prefix": "Кликуха лоха",
+        "shortDescription": "Опиши своего лоха покороче йопта",
+        "shortDescription_hint": "220 букав норм",
+        "longDescription": "Нипонял блэт, го нормально нах",
+        "longDescription_hint": "300 минималка, если могёшь то Markdown, HTML",
+        "tags": "Татухи нах",
+        "tags_hint": "5 татух макс, делим через пятку",
+        "inviteURL": "Хвост за ботом",
+        "inviteURL_hint": "подчистить забыли нах",
+        "library": "Библа",
+        "backgroundURL": "Кепарик",
+        "backgroundURL_hint": "ссылка в ГУЛАГ",
+        "developers": "Менты",
+        "developers_hint": "ИД ментов",
+        "supportServerURL": "МВД",
+        "supportServerURL_hint": "хвосты за лохом, в твою хату",
+        "githubURL": "Слив жопы",
+        "githubURL_hint": "Github с жопой лоха",
+        "websiteURL": "Сайт лоха",
+        "websiteURL_hint": "Где-то в этих ваших интернетах",
+        "rules": "Ты закон зоны знаешь нах?",
+        "updateButton": "Обновка лоха",
+        "createButton": "Посадить лошару",
+        "redirectTo": "Зайти к лошпеду"
+    },
+    "errors": {
+        "botsNotFound": "Лоха вычислить не удалось",
+        "sameId": "На такого лошару мы уже зырили"
+    },
+    "buttons": {
+        "edit": "Отредачить",
+        "follow": "Проследить",
+        "unfollow": "Опустить",
+        "ban": "Закрыть нах",
+        "unban": "Выкупить"
+    },
+    "roles": {
+        "admin": "Главпетух",
+        "moderator": "Козел",
+        "member": "Домушник",
+        "developer": "Гопник"
+    },
+    "settings": {
+        "intergrations": "Связи йопта",
+        "emptyBio": "Инфы ноль",
+        "menu": {
+            "profile": "Уголовка",
+            "language": "Базар",
+            "logout": "Свалить",
+            "version": "Версуха",
+            "os": "ОСька",
+            "browser": "Брузёр"
+        }
+    }
+}
