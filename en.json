@@ -96,6 +96,11 @@
         "member": "Member",
         "developer": "Developer"
     },
+    "tags": {
+        "available": "List of tags available on TopCord.",
+        "bytag": "Bots by tag",
+        "back": "Back to the list of bots"
+    },
     "settings": {
         "intergrations": "Integrations",
         "emptyBio": "No biography",
@@ -107,5 +112,31 @@
             "os": "Operating system",
             "browser": "Browser"
         }
+    },
+    "botCard": {
+        "invite": "Invite",
+        "view": "View"
+    },
+    "reportModal": {
+        "title": "Report a bot",
+        "success": "Report successfully sent!",
+        "placeholder": "Your report",
+        "send": "Submit",
+        "close": "Close"
+    },
+    "botPage": {
+        "prefix": "Prefix",
+        "library": "Library",
+        "developers": "Developers",
+        "basedOn": "based on {count} reviews"
+    },
+    "team": "TopCord team",
+    "userPage": {
+        "followers": "Followers",
+        "following": "Following",
+        "listEmpty": "The list is empty.",
+        "followersCount": "{count} followers",
+        "followingCount": "{count} following",
+        "emptyBotList": "The user has no bots"
     }
 }
