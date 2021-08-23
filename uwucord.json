@@ -1,23 +1,24 @@
 {
     "title": "Discword Bwot List",
-    "subtitle": "Add bwots, upvote them. Chwoose bwots. And its aww on UWUCord.",
+    "subtitle": "Add bwots, upvote them. Chwoose bwots. And its aww on TwopCord.",
     "tagList": "List of tags",
     "newBots": "Nyew bwots",
     "topBots": "Twop bwots",
     "titles": {
         "home": "Hwomwe",
         "bots": "Bwots",
-        "add": "Add",
+        "add": "Add bwot",
         "edit": "Edit",
         "settings": "Settings",
-        "partners": "Partnyers"
+        "partners": "Partnyers",
+        "comments": "Cwommwents"
     },
     "header": {
         "links": {
             "main": "Hwomwe",
             "bots": "Bwots",
             "addBot": "Add bwot",
-            "community": "Cwommunyity ",
+            "community": "Cwommunyity",
             "partners": "Partnyers",
             "login": "Wogin"
         }
@@ -54,7 +55,7 @@
         "editTitle": "Editing a bwot",
         "id": "Client ID",
         "id_hint": "U can get Client ID fwom teh Discword Devewoper Pwortwl",
-        "prefix": "Bwot's pwefwix",
+        "prefix": "Pwefwix",
         "shortDescription": "Bwief descwiption",
         "shortDescription_hint": "maximum nyumber of characters is 220",
         "longDescription": "Detailed descwiption",
@@ -75,20 +76,31 @@
         "websiteURL": "Website UWL",
         "websiteURL_hint": "UWL two bwot site",
         "rules": "I have wead teh rules",
-        "updateButton": "Update",
-        "createButton": "Submit",
-        "redirectTo": "View"
+        "updateButton": "Update bwot",
+        "createButton": "Add bwot",
+        "redirectTo": "Gwo two page",
+        "success": "Success!"
     },
     "errors": {
-        "botsNotFound": "Bwots nywot fwound.",
-        "sameId": "Such ID alweady exists!"
+        "botsNotFound": "Nywo bwots fwound.",
+        "sameId": "Such ID alweady exists!",
+        "botNotFound": "Bwot nywot fwound!",
+        "userNotFound": "User nywot fwound!",
+        "commentLimit": "U have exceeded teh cwommwent limit!"
     },
     "buttons": {
         "edit": "Edit",
-        "follow": "Subscwibe",
-        "unfollow": "Unsubscwibe",
+        "follow": "Fwowwow",
+        "unfollow": "Unfwowwow",
         "ban": "Ban",
-        "unban": "Unban"
+        "unban": "Unban",
+        "view": "View",
+        "public": "Publish",
+        "delete": "Delete",
+        "report": "Repwort",
+        "cancel": "Cancwl",
+        "save": "Save changes",
+        "logout": "Wogwout"
     },
     "roles": {
         "admin": "Adminyistwatwor",
@@ -96,16 +108,53 @@
         "member": "Mwember",
         "developer": "Devewoper"
     },
+    "tags": {
+        "available": "List of tags available on TwopCord.",
+        "bytag": "Bwots by tag",
+        "back": "Back two teh list of bwots"
+    },
     "settings": {
         "intergrations": "Integwations",
-        "emptyBio": "Nywo biogwaphy",
+        "errors": "Erwors were made!",
+        "emptyLink": "link is missing",
         "menu": {
             "profile": "User Pwofwile",
             "language": "Language",
             "logout": "Wogwout",
             "version": "Current wersion",
-            "os": "Operating system",
+            "os": "OS",
             "browser": "Bwowser"
-        }
+        },
+        "account": "My Accwount",
+        "accountUpdateSuccess": "Accwount successfuwwy updated!",
+        "verified": "werifwied",
+        "bioPlaceholder": "Teww us a littwal bit abwout u",
+        "bioNotProvided": "Nywo biogwaphy"
+    },
+    "botCard": {
+        "invite": "Invite",
+        "view": "View"
+    },
+    "reportModal": {
+        "title": "Repwort a bwot",
+        "success": "Repwort successfuwwy sent!",
+        "placeholder": "Ywour repwort",
+        "send": "Submit",
+        "close": "Cwose"
+    },
+    "botPage": {
+        "prefix": "Pwefwix",
+        "library": "Libwary",
+        "developers": "Devewopers",
+        "basedOn": "Based on {count} reviews"
+    },
+    "team": "TwopCord Team",
+    "userPage": {
+        "followers": "Fwowwowers",
+        "following": "Fwowwowing",
+        "listEmpty": "Teh list is empty.",
+        "followersCount": "{count} fwowwowers",
+        "followingCount": "{count} fwowwowing",
+        "emptyBotList": "Teh user has nywo bwots"
     }
 }
