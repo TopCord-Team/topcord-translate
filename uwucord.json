@@ -1,6 +1,6 @@
 {
     "title": "Discword Bwot List",
-    "subtitle": "Add bwots, upvote them. Chwoose bwots. And its aww on TwopCord.",
+    "subtitle": "Add bwots, upvote them. Chwoose bwots. And its aww on UwUCord.",
     "tagList": "List of tags",
     "newBots": "Nyew bwots",
     "topBots": "Twop bwots",
@@ -46,7 +46,7 @@
             "documentation": "API Guide",
             "donate": "Dwonyate",
             "rules": "Rules",
-            "topinfo": "TwopInfwo",
+            "topinfo": "UwUInfwo",
             "support": "Suppwort Serwer"
         }
     },
@@ -109,7 +109,7 @@
         "developer": "Devewoper"
     },
     "tags": {
-        "available": "List of tags available on TwopCord.",
+        "available": "List of tags available on UwUCord.",
         "bytag": "Bwots by tag",
         "back": "Back two teh list of bwots"
     },
@@ -148,7 +148,7 @@
         "developers": "Devewopers",
         "basedOn": "Based on {count} reviews"
     },
-    "team": "TwopCord Team",
+    "team": "UwUCord Team",
     "userPage": {
         "followers": "Fwowwowers",
         "following": "Fwowwowing",
